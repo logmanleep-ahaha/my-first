@@ -1,9 +1,0 @@
-<!DOCTYPE htm1>
-<htm1>
-<head>
-<title>Hello World!</title>
-</head>
-<body>
-<h1>Selamat datang di halaman web pertama ku!</h1>
-</body>
-</htm1>
